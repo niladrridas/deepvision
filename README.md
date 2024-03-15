@@ -32,7 +32,7 @@ DeepVision is an image classification project that employs TensorFlow and Keras 
 
 ## Preview
 
-![Image Preview](https://github.com/niladrigithub/DeepVision-Image-Classification/blob/main/Screenshot%202024-02-05%20at%2000.19.33.png)
+![Image Preview](https://github.com/niladrridas/DeepVision-Image-Classification/blob/main/Screenshot%202024-02-05%20at%2000.19.33.png)
 
 ## Results
 
@@ -42,7 +42,7 @@ DeepVision is an image classification project that employs TensorFlow and Keras 
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/niladrigithub/DeepVision-Image-Classification?tab=MIT-1-ov-file).
+This project is licensed under the [MIT License](https://github.com/niladrridas/DeepVision-Image-Classification?tab=MIT-1-ov-file).
 
 ## Acknowledgments
 
