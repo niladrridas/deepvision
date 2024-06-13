@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ## Preview
 
-![Image Preview](https://github.com/niladrridas/deepvision/blob/main/Screenshot%202024-02-05%20at%2000.19.33.png)
+![Image Preview](/data/test1.png)
 
 ## Results
 
